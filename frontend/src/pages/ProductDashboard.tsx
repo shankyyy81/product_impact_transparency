@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { Product } from '../types/Product';
 import { productApi } from '../services/api';
 import { QRCodeSVG } from 'qrcode.react';
+import { getQrCodeUrl } from '../utils/networkUtils';
 import './ProductDashboard.css';
 
 const ProductDashboard: React.FC = () => {
@@ -71,7 +72,7 @@ const ProductDashboard: React.FC = () => {
   }
 
   // For QR code, use the QR summary page URL
-  const qrCodeUrl = `https://your-deployed-app.com/qr/${product.id}`;
+  const qrCodeUrl = getQrCodeUrl(product.id);
   
   // Compose summary for modal
   const summaryText = `${product.name} (${product.brand}, ${product.store})\n\n` +

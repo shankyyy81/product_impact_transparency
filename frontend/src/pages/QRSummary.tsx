@@ -12,15 +12,27 @@ const QRSummary: React.FC = () => {
 
   useEffect(() => {
     const fetchProductData = async () => {
-      if (!productId) return;
+      if (!productId) {
+        setError('No product ID provided.');
+        setLoading(false);
+        return;
+      }
       try {
         setLoading(true);
         setError(null);
+        console.log('Fetching product with ID:', productId);
         const productData = await productApi.getProductById(productId);
+        console.log('Product data received:', productData);
         setProduct(productData);
-      } catch (err) {
-        setError('Failed to load product data.');
+      } catch (err: any) {
         console.error('Error fetching product:', err);
+        if (err.response?.status === 404) {
+          setError(`Product with ID "${productId}" not found.`);
+        } else if (err.code === 'ECONNREFUSED') {
+          setError('Unable to connect to server. Please ensure the backend is running.');
+        } else {
+          setError(`Failed to load product data: ${err.message || 'Unknown error'}`);
+        }
       } finally {
         setLoading(false);
       }
