@@ -138,7 +138,6 @@ const QRSummary: React.FC = () => {
         {/* Footer */}
         <div className="qr-footer">
           <p>💚 Product Impact Transparency</p>
-          <p>Powered by Walmart Sparkathon 2025</p>
         </div>
       </div>
     </div>

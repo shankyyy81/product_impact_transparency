@@ -189,7 +189,6 @@ const HomePage: React.FC = () => {
       {/* Footer */}
       <footer className="home-footer">
         <p>💚 Making sustainable choices easier</p>
-        <p>Powered by Walmart Sparkathon 2025</p>
       </footer>
     </div>
   );

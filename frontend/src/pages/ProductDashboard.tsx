@@ -245,7 +245,6 @@ const ProductDashboard: React.FC = () => {
       {/* Footer */}
       <footer className="dashboard-footer">
         <p>💚 Making sustainable choices easier</p>
-        <p>Powered by Walmart Sparkathon 2025</p>
       </footer>
     </div>
   );

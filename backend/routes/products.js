@@ -9,7 +9,7 @@ let inMemoryProducts = [...seedProducts];
 // Helper function to get products (MongoDB or in-memory)
 const getProducts = async () => {
   try {
-    const products = await Product.find().limit(20);
+    const products = await Product.find();
     return products;
   } catch (error) {
     console.log('Using in-memory products...');

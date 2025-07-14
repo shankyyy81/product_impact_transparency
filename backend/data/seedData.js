@@ -12,9 +12,9 @@
       category: 'Produce',
       description: 'Fresh, ripe mangoes sourced from sustainable farms in India.',
       impactMeter: 'green',
-      store: 'Walmart',
+      store: 'Amazon',
       brand: 'Great Value',
-      buyUrl: 'https://www.walmart.com/ip/Fresh-Mangoes-16-oz/123456789'
+      buyUrl: 'https://www.amazon.in/Fresh-Mango-Neelam-12-Pieces/dp/B07B8YCY79/ref=sr_1_4_f3_0o_fs?dib=eyJ2IjoiMSJ9.7AKoSOyCnDiWl0U989hBEnJAekpAWMD8JSoM8LL7tNlSVbl48QE6Q4Ow5slIF4hAYlY1TuJVEefAnps9CDasNZSx1Zm_PEKF9nuTTsi7HlJuU0S4By4_rCWX93_V7LS2BFWc1vf1KEzm38ZL_H_Neb3tbWwEhgLP-p_z36NdDkuiMBvMDy2Z8mqF41zaHjUwm_m0glfS2odG19t5XQHOd7aqJD5Tqy_w8u9xbbbhipcNbpqD6s0hwkf5uuQD-pvbsjCBOKCLbsMrryiae0p5J94lF3rhRLaDX3XxmG7fmrM.XVg450lmLIJ3ypJPAOmHo8lVsF_yUR_9PZ3TFlbLMqo&dib_tag=se&keywords=mango+fresh+fruits+cut&qid=1752467523&sr=8-4'
     },
     {
       id: 'sku789012',
@@ -29,12 +29,12 @@
       impactMeter: 'green',
       store: 'Amazon',
       brand: 'Dole',
-      buyUrl: 'https://www.amazon.com/Dole-Organic-Bananas-Approximately-Pound/dp/B07NQGQJ8T'
+      buyUrl: 'https://www.amazon.in/Fresh-Banana-Yelakki-500-g/dp/B07NXZWCX7/ref=sr_1_6_f3_0o_fs?crid=1K3G5JZPGWLZT&dib=eyJ2IjoiMSJ9.Nvbv6kbK2Ys2CblyHO5S81VzXjxSBX3gB4BKUIXzem5NuAPDaaFjGpAfpeI_GsDyNeb7sAr2QGDvdtf5FklscrZQiFqghMoYiJcoqRLx010NgbWA-zSb6mgnQx00tjFuLhH29V5ED9bmPsUfEHM1JiL5FmYSrrPUjkyqfbzGa7O7wNFWj5t1gDb02yhskJSsgPPvCXAIgdN6jEumWJ05GViQJ-vLjZq-2X0WyZxRTG-aPofnXm9sJHJS8dJOteq_nU7pnbGjxfrdvp0-iloH3ouV5lkKUGNKAjSA-OEBA-Q.jBLUIRbShfl2rl9hxn69e8bWKviSqUMsDbh5uKz8Vko&dib_tag=se&keywords=organic+bananas&qid=1752467639&sprefix=organic+banan%2Caps%2C260&sr=8-6'
     },
     {
       id: 'sku345678',
       name: 'Plastic Water Bottles (24 pack)',
-      imageUrl: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400',
+      imageUrl: 'https://images.unsplash.com/photo-1616118132534-381148898bb4?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 2.5,
       recyclability: 60,
       sourcing: 'Bottled in USA',
@@ -42,9 +42,9 @@
       category: 'Beverages',
       description: 'Purified water in plastic bottles.',
       impactMeter: 'red',
-      store: 'Target',
-      brand: 'Nestle',
-      buyUrl: 'https://www.target.com/p/nestle-pure-life-purified-water-16-9-fl-oz-bottles-24pk/-/A-12345678'
+      store: 'Amazon',
+      brand: 'Cello',
+      buyUrl: 'https://www.amazon.in/CELLO-Unbreakable-Plastic-silicone-break-proof/dp/B082TBL7S7/ref=sr_1_5?crid=KXTVSYQRYQQU&dib=eyJ2IjoiMSJ9.JwxuPWZCg1jEQJpZ9eVdmPQ6r8iTjp8wtSSJBnGCfUGvf1Ny459SssnPtx0YZCQP0smoB5-Hq3j6QNu8hH1RXZwNFWd9n_A-VMmfwXFIOiS43soIJl9FFRuOL6wNHsDqESr36tyE_KyRuj3oRj46eo0fMCVGE744WAa7SLeXzcXa7jNtfZ2Emj7k4G-lHfoLMQp6zlA9nZ73YBxi6qhIRdXwimoanknikeX47ivJSm3oMSOeYsTzA-9s4oGwblYt6KXh_R7ws-zMRFX_FIU4YhOJZYkhzRoJA-oAvbqa5xE.1qpDSppTD8aCVnYTbsOr1uTOP9p02oa8Yx9J7f9QU34&dib_tag=se&keywords=plastic%2Bwater%2Bbottle%2B1%2Blitre&qid=1752467793&sprefix=plastic%2Bwater%2Caps%2C253&sr=8-5&th=1'
     },
     {
       id: 'sku901234',
@@ -57,9 +57,9 @@
       category: 'Beverages',
       description: 'Reusable stainless steel water bottle.',
       impactMeter: 'green',
-      store: 'Walmart',
-      brand: 'Hydro Flask',
-      buyUrl: 'https://www.walmart.com/ip/Hydro-Flask-Wide-Mouth-Water-Bottle-32-oz/901234567'
+      store: 'Amazon',
+      brand: 'Cello',
+      buyUrl: 'https://www.amazon.in/CELLO-Stainless-break-proof-silicone-College/dp/B07F5SL8HR/ref=sr_1_3_sspa?crid=3G73PKD27AHK8&dib=eyJ2IjoiMSJ9._jNqeMco17LMHW3ae0mLh0ujWCtRu1WUya-fJ0ZXSTXz6TaaDSqmc-0WCz4QEi8_4JhDk-r08Lz2uyQu90rugv-4DaJErGu-OITuUkjNDBWMO3S4uT-KdNoCXQZ7e7aBFt88GoBGUo_yGXPI85S6uI3drIBjdjPRnT2yX2eJ6aPu3Ot2pFKL3N1c4p_bADJFYiKJMXJJG3el18t4u0qm3QiRJPEjbqMTyePkRD4xj8KCZAgdAL3TWPH1VZ6UfC5B4-oCAfdP6Cmd8o3h-3GRnGB2G_oXO3jIpeqSa1Smf-Q.ta2akBPDxn22lJ7Zx38s98cJXEzroPuT64vXr-hY0B8&dib_tag=se&keywords=stainless%2Bsteel%2Bwater%2Bbottle%2B1%2Blitre&qid=1752467908&sprefix=stainless%2B%2Caps%2C249&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1'
     },
     {
       id: 'sku567890',
@@ -72,9 +72,9 @@
       category: 'Clothing',
       description: '100% cotton t-shirt from fair trade sources.',
       impactMeter: 'yellow',
-      store: 'Amazon',
-      brand: 'Fruit of the Loom',
-      buyUrl: 'https://www.amazon.com/Fruit-Loom-Womens-Crewneck-T-Shirt/dp/B01N5IB20Q'
+      store: 'Flipkart',
+      brand: 'Arkis',
+      buyUrl: 'https://www.flipkart.com/arkis-solid-men-round-neck-white-t-shirt/p/itm5bd236be5c861?pid=TSHH5VD3KVSGZJY9&lid=LSTTSHH5VD3KVSGZJY9FRE7SM&marketplace=FLIPKART&store=clo%2Fash%2Fank&srno=b_1_1&otracker=browse&fm=organic&iid=en_iO5Sw_FxJTNzUJc8RgKxgQNxFTXYfd7GF9JmTo5LU6wBuBYWI4Yx9zqGmpT-HVAQqMdQS0RVt9QS2L9Loz3JZg%3D%3D&ppt=sp&ppn=productListView&ssid=6t6hvk44xrwcwbuo1752468100427'
     },
     {
       id: 'sku234567',
@@ -87,14 +87,14 @@
       category: 'Clothing',
       description: 'Bamboo fiber t-shirt, more sustainable than cotton.',
       impactMeter: 'green',
-      store: 'Target',
-      brand: 'Boody',
-      buyUrl: 'https://www.target.com/p/boody-eco-wear-womens-everyday-round-neck-tee/-/A-23456789'
+      store: 'Wellbi',
+      brand: 'Wellbi',
+      buyUrl: 'https://wellbi.in/products/noir-bamboo-t-shirt'
     },
     {
       id: 'sku890123',
-      name: 'Plastic Shopping Bags (50 pack)',
-      imageUrl: 'https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400',
+      name: 'Plastic Shopping Bags',
+      imageUrl: 'https://plus.unsplash.com/premium_photo-1671244011017-2f2e66ee5f31?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 3.2,
       recyclability: 40,
       sourcing: 'Made in China',
@@ -102,14 +102,14 @@
       category: 'Household',
       description: 'Disposable plastic shopping bags.',
       impactMeter: 'red',
-      store: 'Walmart',
-      brand: 'Great Value',
-      buyUrl: 'https://www.walmart.com/ip/Great-Value-Plastic-Shopping-Bags-50-Count/890123456'
+      store: 'Amazon',
+      brand: 'Shalimar',
+      buyUrl: 'https://www.amazon.in/Shalimar-Reusable-Vegetable-Multi-Purpose-Storage/dp/B096NZWK5S/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.4ggHWK-_ezLHSmPWom3vJL1ObsX6Y_rmK1luhBErzwswILlQE_sagWJqlA8rhYffYFy6uM59L80sz4AGTivgyJRB0CtXmac_Y2q4evJ7YYJ_t0QSV1npBR_uqYP7Z_Z7rGg9ivinkwuI-gsSMMB1U3fkichtyhFMH7ugY2FTdvkKa-HLiAKNHfeHhrzTEkfEqrIEiaM-2scP44KMLUjovImZxl99dMIt9jKufX033i_byXUbh7If1iP2j-GDWfXelQQcu3Tb_1jGun3hDTZYUOXPhAaicfC1MHal27ArD-Y.dtlcWb39SHUrHoCkO3p1D-MfUtXTUxEn6fQtdRL11P0&dib_tag=se&keywords=Plastic%2BCarry%2BBags&qid=1752468288&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1'
     },
     {
       id: 'sku456789',
       name: 'Reusable Cotton Tote Bag',
-      imageUrl: 'https://images.unsplash.com/photo-1597481499750-3e6b22637e12?w=400',
+      imageUrl: 'https://plus.unsplash.com/premium_photo-1681498856888-2f3552c0b189?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 1.5,
       recyclability: 90,
       sourcing: 'Made in India',
@@ -118,8 +118,8 @@
       description: 'Reusable cotton tote bag for shopping.',
       impactMeter: 'green',
       store: 'Amazon',
-      brand: 'Baggu',
-      buyUrl: 'https://www.amazon.com/BAGGU-Standard-Reusable-Shopping-Bag/dp/B07T8VYQ2B'
+      brand: 'Prakriti Maitri',
+      buyUrl: 'https://www.amazon.in/Prakriti-Maitri-Shopping-Carrying-Professionally/dp/B0C57QK5SK/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.mZjIAaMiOdZs3pWXgjTf3aM-SoA1OKK--CeGUOUxWt82ipWsoHScVgH7bIHmm8x4xP3h0SME8xvSonFzj8qhfuZGUoxym2p2PaqlH3k5ikS8FJEt6jfESo2sC0X0TW8d9OWkRYrtDxC1ZDy8L6jTrkOHX9VVqPFUxKffmVOyX1oK6iYJE1lFpd3AoE0QzwvCsh7VcWix8tIz3aUyIy4ESUb10sAnLhhBN3ty5H1y2_sAVK4uus8OdVesQg9p2YQHvHjwtnuW0q3YSl6YxZW296GkSO0dw_JVjpZ8Pewiem0.GQjK4UvHaWlQlVpD-t_gYcZLJyXSaYXnsk08t9l0s9Q&dib_tag=se&keywords=plain+cotton+tote+bag&qid=1752468472&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1'
     },
     {
       id: 'sku111111',
@@ -132,14 +132,14 @@
       category: 'Produce',
       description: 'Organic avocados from sustainable farms in Mexico.',
       impactMeter: 'green',
-      store: 'Walmart',
-      brand: 'Great Value',
-      buyUrl: 'https://www.walmart.com/ip/Organic-Avocados-4-Count/111111111'
+      store: 'Amazon',
+      brand: 'Royal Land',
+      buyUrl: 'https://www.amazon.in/ROYAL-LAND-Avocado-americana-Seedling/dp/B08B8XV7YG/ref=sr_1_6?dib=eyJ2IjoiMSJ9.EJNETdQziY2nZgeYKhDHTVxrdbBfgQKu4aF4byWtH7LSjZFVdfhXm1KmmsOMo7ncUfkW8u_O-SfWusjAyhFJs6zBP6tWl-kNemFHUUGNqFJye2qUaHt-fx8hos12y06U7NdMxR3Cyy_H4WfqqCuJWnetRZ9PrFIhJ7kA8DHsvxdsaJxE9GxUE8pB75bOLuvwHeUAiJpXSBJtEGv1a-qYW-BrfdQzLy8Hbbbvc60avUgUuF42zdDJDj5qg6Zrc7IHlib0OuEObb-oS14Odi68BrkROq1Rl-Jm_KZo62IlYuY.iZ6dgeYkumUoYvY8Z9dB1XdGIX2dp-RQCY1EMyUielg&dib_tag=se&keywords=avocado&qid=1752468514&sr=8-6'
     },
     {
       id: 'sku222222',
-      name: 'LED Light Bulbs (4 pack)',
-      imageUrl: 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400',
+      name: 'LED Light Bulbs',
+      imageUrl: 'https://images.unsplash.com/photo-1532007271951-c487760934ae?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 0.4,
       recyclability: 80,
       sourcing: 'Made in USA',
@@ -147,14 +147,14 @@
       category: 'Household',
       description: 'Energy-efficient LED light bulbs.',
       impactMeter: 'green',
-      store: 'Home Depot',
-      brand: 'Philips',
-      buyUrl: 'https://www.homedepot.com/p/Philips-LED-60W-Equivalent-A19-Dimmable-Light-Bulb-4-Pack/222222222'
+      store: 'Amazon',
+      brand: 'Everready',
+      buyUrl: 'https://www.amazon.in/EVEREADY-Hammer-Lumen-Surge-Protection/dp/B0DDPDGKPL/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.-cCGOtZreiwuyHDHnqN4cjtnRH5jpYaQK8LbLwZks1lSLvUq9LL02H3aIQIOCRBnrCxSDSvwPQtYA_khJHdMHatiFHtzlYhP77OOGTTDAFGUGI0nRF6v2exUJB3WHt6IURWqg4lsh7Yf4HnD2_8U3paKfvHKJmTRGZnxCkuKFuwfJap8QkXU1MMYvcbUHWkCVECPonN10xHQKck66K_A3fo7BtYWSvb4wm4aHMGUASDE-fm-mQ7bcqUIIeVyxPenGHPfVkFUMWj2TJjvtHvARx3Lzihl4JseqKDX6_-vJaQ.iEs19If4g3gmHaVJ9h83lclCQbztdiUag9kNk2JtGpo&dib_tag=se&keywords=led%2Bbulbs&qid=1752468691&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1'
     },
     {
       id: 'sku333333',
-      name: 'Plastic Straws (200 pack)',
-      imageUrl: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400',
+      name: 'Plastic Straws',
+      imageUrl: 'https://images.unsplash.com/photo-1615723093586-1ad38d59056b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 1.8,
       recyclability: 30,
       sourcing: 'Made in China',
@@ -163,13 +163,13 @@
       description: 'Disposable plastic drinking straws.',
       impactMeter: 'red',
       store: 'Amazon',
-      brand: 'Amazon Basics',
-      buyUrl: 'https://www.amazon.com/AmazonBasics-Plastic-Drinking-Straws-200-Pack/dp/333333333'
+      brand: 'Zone Marketing',
+      buyUrl: 'https://www.amazon.in/Zone-Marketing-Plastic-Straw-Drinking/dp/B0D7QJ234M/ref=sr_1_6?dib=eyJ2IjoiMSJ9.I1WE_VBwS0mOKelQK5Q_n6jcZ8QC4rE0EEpA1zLoi6dhHgZi6hN_EjYDAggwkPwbblzk0AUVFTJkGajzc1mNGqaBHlL2ChP-nHANO8eTVFknG2nxa1wU99JRUc0Xq2jBK3sDErs5rxOekQyDuJOy7nf7eUqZKh7xnT1s-5Hdpw2H29ZV9Nz6JLY1bjD9aWrxFBlMh-fQuZWq7ls_x3cu1ZCCZXcxl3_NlgoPecadmMvC_Vy7y2kzlB5flkA4WXBpr8WhOqH7NCEvIetcX6qkER7F9els94x1UEnV0EBsc8o.F03dwmA1wP_PxS5fPsVHss54mecN4OUrosWDuIIRz-o&dib_tag=se&keywords=plastic+straw&qid=1752468867&sr=8-6'
     },
     {
       id: 'sku444444',
-      name: 'Bamboo Straws (50 pack)',
-      imageUrl: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400',
+      name: 'Bamboo Straws',
+      imageUrl: 'https://scx1.b-cdn.net/csz/news/800a/2020/drinkingstra.jpg',
       carbonFootprint: 0.3,
       recyclability: 100,
       sourcing: 'Made in Vietnam',
@@ -177,14 +177,14 @@
       category: 'Household',
       description: 'Reusable bamboo drinking straws.',
       impactMeter: 'green',
-      store: 'Target',
-      brand: 'Bamboo Straws Co',
-      buyUrl: 'https://www.target.com/p/bamboo-straws-reusable-50-pack/-/A-44444444'
+      store: 'Amazon',
+      brand: 'Able Sustainable',
+      buyUrl: 'https://www.amazon.in/Able-Sustainable-Reusable-Bamboo-Straws/dp/B0C282PB2Z'
     },
     {
       id: 'sku555555',
-      name: 'Recycled Notebook (3 pack)',
-      imageUrl: 'https://source.unsplash.com/400x400/?recycled-notebook',
+      name: 'Recycled Notebook',
+      imageUrl: 'https://images.unsplash.com/photo-1612367980327-7454a7276aa7?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 0.4,
       recyclability: 100,
       sourcing: 'Made in USA',
@@ -192,14 +192,14 @@
       category: 'Stationery',
       description: 'Notebook made from 100% recycled paper.',
       impactMeter: 'green',
-      store: 'Target',
-      brand: 'EcoNote',
-      buyUrl: 'https://www.target.com/p/econote-recycled-notebook-3-pack/-/A-55555555'
+      store: 'Amazon',
+      brand: 'amazon basics',
+      buyUrl: 'https://www.amazon.in/amazon-basics-Eco-Friendly-Notebook-Sheets/dp/B0CZ6X1RS6/ref=sr_1_5?dib=eyJ2IjoiMSJ9.o-2D3PtE5C1wInM6u-cWzkiZcaCFqmy-ZxRIgwd8jxV52fmXOlXdEJDI6VsxDlsDpqv22zo-wq8szHZAYHu05si_0MikLPImlnVPYBKOnIQqmJLW4E6nsj1uIT7mGveSOTgLEYVEvoi8k0jlvvxhhlKXkgemjlZO-Z8Y8lrFZtFqPG05nOrW_bW948-cxEd7PcW2F9pGEivGBlFoPAtu21rKubRTOF7vG2V-zrcmxrcIaeCk_x1wRXMfskdvpbVpbzvQB6eN7HwDyOp9bu2UkBgMfQyYVaui7cp8wpMGR5g.EC-jvvkCVYGZLON2edjnAaT_Ub8WDm9L4wX3xuop094&dib_tag=se&keywords=recycled+paper+notebooks+a4&qid=1752469512&sr=8-5'
     },
     {
       id: 'sku666666',
       name: 'Aluminum Foil (200 sq ft)',
-      imageUrl: 'https://source.unsplash.com/400x400/?aluminum-foil',
+      imageUrl: 'https://images.unsplash.com/photo-1618615580649-1a4bc3bea1e5?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 1.9,
       recyclability: 70,
       sourcing: 'Made in Canada',
@@ -207,14 +207,14 @@
       category: 'Household',
       description: 'Heavy duty aluminum foil for kitchen use.',
       impactMeter: 'yellow',
-      store: 'Walmart',
-      brand: 'Reynolds',
-      buyUrl: 'https://www.walmart.com/ip/Reynolds-Aluminum-Foil-200sqft/666666666'
+      store: 'FlipKart',
+      brand: 'alu 9',
+      buyUrl: 'https://www.flipkart.com/alu-9-meter-thick-11-micron-aluminium-foil-keeps-food-fresh-low-wastage-foil/p/itmfc6523ff844f5?pid=AFSGKZ97BNUNKTUA&lid=LSTAFSGKZ97BNUNKTUAOFKVBV&marketplace=FLIPKART&store=rja%2Fplv%2Fd0s&srno=b_1_17&otracker=browse&fm=organic&iid=en_Ash0FksLGGW7AlckXPz2uP67KMnZPIhFelQOq3GIaOOLEhFnF_T_9zWoDgvvtpYZd48f7GMdclR7hXrmH3-8tw%3D%3D&ppt=browse&ppn=browse&ssid=3lx5jaj06xqy1yps1752469618867'
     },
     {
       id: 'sku777777',
-      name: 'Compostable Trash Bags (30 pack)',
-      imageUrl: 'https://source.unsplash.com/400x400/?com postable-bags',
+      name: 'Compostable Trash Bags',
+      imageUrl: 'https://images-cdn.ubuy.com.sa/65cf3dcd51cbb84a466d4092-13-gal-1-mil-compostable-trash-bags.jpg',
       carbonFootprint: 0.5,
       recyclability: 100,
       sourcing: 'Made in Germany',
@@ -223,13 +223,13 @@
       description: 'Eco-friendly compostable trash bags.',
       impactMeter: 'green',
       store: 'Amazon',
-      brand: 'BioBag',
-      buyUrl: 'https://www.amazon.com/BioBag-Compostable-Trash-Bags-13-Gallon/dp/777777777'
+      brand: 'Shalimar',
+      buyUrl: 'https://www.amazon.in/Shalimar-Premium-Compostable-Biodegradable-Garbage/dp/B07KQC3GRY/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.dHeY20tUY4rmFUzkJmYV3pw2w_iPgeFHObmIYqL9yLUOGRFpk29c-kN6hujTMdK1jUX2k7qQzjkMjex7H1NkEjiqnIczkk6gnQmtMF2P0Kydu4fGFNkgdfo6JxojYKAcOYpY7gc1H2NdcpsdchDhteOf56OJKp3u-xOwFX5gnWt3PhUcCBMpMXW6F43YZKRItdCTaevrU7N5026fbb7Cl4DpMg9S1pwyjvtF7hw2ggJg1iiJmysNeatTgtomIc0ksGgYNo24HMCImkQsd_6u-yJkXYNFh682GfrlAc7RtA8.QdprVfi_yr5GOPAVL01-WbCvBitQQ7r9WFRXlbojgEY&dib_tag=se&keywords=compostable+bags&qid=1752470034&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1'
     },
     {
       id: 'sku888888',
-      name: 'Plant-Based Soap Bars (5 pack)',
-      imageUrl: 'https://source.unsplash.com/400x400/?soap-bar',
+      name: 'Plant-Based Soap Bars',
+      imageUrl: 'https://images.unsplash.com/photo-1652233172336-6efc037a3766?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 0.6,
       recyclability: 90,
       sourcing: 'Made in France',
@@ -237,14 +237,14 @@
       category: 'Personal Care',
       description: 'Gentle, eco-friendly soap bars from plant oils.',
       impactMeter: 'green',
-      store: 'Target',
-      brand: 'Dr. Bronner\'s',
-      buyUrl: 'https://www.target.com/p/dr-bronners-soap-bar-5-pack/-/A-88888888'
+      store: 'PlantLife',
+      brand: 'bar soaps',
+      buyUrl: 'https://plantlife.net/products/citrus-burst-bar-soap?_pos=7&_fid=18b788af2&_ss=c'
     },
     {
       id: 'sku999999',
-      name: 'Glass Food Containers (10 pc set)',
-      imageUrl: 'https://source.unsplash.com/400x400/?glass-container',
+      name: 'Glass Food Containers',
+      imageUrl: 'https://plus.unsplash.com/premium_photo-1664007755672-52d27e1766da?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 1.1,
       recyclability: 95,
       sourcing: 'Made in USA',
@@ -253,13 +253,13 @@
       description: 'Durable and microwave-safe glass food containers.',
       impactMeter: 'green',
       store: 'Amazon',
-      brand: 'Pyrex',
-      buyUrl: 'https://www.amazon.com/Pyrex-Glass-Food-Storage-Set/dp/999999999'
+      brand: 'Nestasia',
+      buyUrl: 'https://www.amazon.in/Nestasia-Containers-XL-1200ml-Transparent-Dishwasher/dp/B0DYVH7TFG/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.qdDeDX9rEUxxw6gTLtDVPuFVGFn8T3z1s5cYIUGPTL-WYtduXEQsFVAeJUBdRb1qynFcxYyslwAgo8CQoMD68ErAqWnJHrEMb-DYKbzs32S-shq81mUQ-ok1a2Nm1ytvj1m5aysUqdSe69fygaqy5PTh91s8Oc308WNi-05q25rTjjUnU-9fuqL5pRQI5hIUHh3ckixcDLSDqfz3zJEwFcXWA8MQhcf9BFPrOICsYrwUuuOzVSjSmeD81ZriaL5eTqm0ysocRFQKsATHf0LX8FPZzVRa2L9VGg5utJ4A-IA.74whDxEZxPXDGVLzMvUEaYYyWuVRV8M0Fs_DjZymsp8&dib_tag=se&keywords=glass%2Bfood%2Bstorage%2Bcontainer&qid=1752470491&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1'
     },
     {
       id: 'sku000001',
       name: 'Organic Cotton Bedsheet Set',
-      imageUrl: 'https://source.unsplash.com/400x400/?cotton-bedsheet',
+      imageUrl: 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 1.6,
       recyclability: 90,
       sourcing: 'Made in India',
@@ -267,14 +267,14 @@
       category: 'Home Textiles',
       description: 'Soft bedsheets made from certified organic cotton.',
       impactMeter: 'green',
-      store: 'Walmart',
-      brand: 'Simply Organic',
-      buyUrl: 'https://www.walmart.com/ip/Simply-Organic-Cotton-Bedsheets/000001001'
+      store: 'Amazon',
+      brand: 'Lane-Lenin',
+      buyYrl:'https://www.amazon.in/LANE-LINEN-Organic-Cotton-Bedsheet/dp/B0D6BB86FJ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.UhWrmZuZ0WEoIBhCgdAbbmGD9uBj2uYdEioResV_KncTVioR0w2A8in2_faGoc4MkFMb8qLs1PAUT4NrMy8mz1qXwgU1Re-8p_iEjVjyIM_39rli4UmzE2wVJBvgLjDWaHQcIZbaFl_8jDvRPEeZq7WBrDDgMfKX_jzef20ncxittnrEGjE0XOdHXi07-tLr7Pxjw_2zZq3_NUBAJRSpYxVze1PM51tI3NJGlbmM8OnyTOXIB4UOEGW0ALr1pnqZPdn1kCMnmQ3mDE0_j4OH_aMUjZ6cqCZ5Ub5-fiw9M6U.545294Wxk2VEJESG5nimNyzGBJTUo_pUGkZZF1p2XDY&dib_tag=se&keywords=organic%2Bbedsheet&qid=1752470562&sr=8-5&th=1'
     },
     {
       id: 'sku000002',
-      name: 'Reusable Silicone Food Bags (6 pack)',
-      imageUrl: 'https://source.unsplash.com/400x400/?silicone-food-bag',
+      name: 'Reusable Silicone Food Bags',
+      imageUrl: 'https://m.media-amazon.com/images/I/41XmKFdPkoL.jpg',
       carbonFootprint: 0.9,
       recyclability: 100,
       sourcing: 'Made in USA',
@@ -284,12 +284,12 @@
       impactMeter: 'green',
       store: 'Amazon',
       brand: 'Stasher',
-      buyUrl: 'https://www.amazon.com/Stasher-Reusable-Silicone-Storage-Bags/dp/000002002'
+      buyUrl: 'https://www.amazon.in/Stasher-Reusable-Silicone-Bag-Sandwich/dp/B01DZQT9CU?th=1'
     },
     {
       id: 'sku000003',
-      name: 'Biodegradable Toothbrush (4 pack)',
-      imageUrl: 'https://source.unsplash.com/400x400/?bamboo-toothbrush',
+      name: 'Biodegradable Toothbrush',
+      imageUrl: 'https://images.unsplash.com/photo-1589365252845-092198ba5334?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 0.2,
       recyclability: 100,
       sourcing: 'Made in Vietnam',
@@ -297,14 +297,14 @@
       category: 'Personal Care',
       description: 'Toothbrushes made from bamboo and compostable materials.',
       impactMeter: 'green',
-      store: 'Target',
-      brand: 'Brush with Bamboo',
-      buyUrl: 'https://www.target.com/p/eco-toothbrush-bamboo-4-pack/-/A-000003003'
+      store: 'Letsbeco',
+      brand: 'letsbeco',
+      buyUrl: 'https://www.letsbeco.com/products/bamboo-toothbrush'
     },
     {
       id: 'sku000004',
       name: 'Eco-Friendly Dish Soap',
-      imageUrl: 'https://source.unsplash.com/400x400/?dish-soap',
+      imageUrl: 'https://m.media-amazon.com/images/I/71jtaAG8X5L._SL1500_.jpg',
       carbonFootprint: 0.7,
       recyclability: 85,
       sourcing: 'Made in USA',
@@ -312,14 +312,14 @@
       category: 'Household',
       description: 'Liquid dish soap made from plant-based ingredients.',
       impactMeter: 'green',
-      store: 'Walmart',
-      brand: 'Seventh Generation',
-      buyUrl: 'https://www.walmart.com/ip/Seventh-Generation-Dish-Soap/000004004'
+      store: 'Amazon',
+      brand: 'BubbleNut',
+      buyUrl: 'https://www.amazon.in/BubbleNut-Wash-Natural-Dishwash-500ml/dp/B07H9M8YC8?th=1'
     },
     {
       id: 'sku000005',
-      name: 'Paper Towels (6 rolls)',
-      imageUrl: 'https://source.unsplash.com/400x400/?paper-towels',
+      name: 'Paper Towels',
+      imageUrl: 'https://images.unsplash.com/photo-1632334994199-cc2ba6538141?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 1.3,
       recyclability: 60,
       sourcing: 'Made in USA',
@@ -329,12 +329,12 @@
       impactMeter: 'yellow',
       store: 'Amazon',
       brand: 'Bounty',
-      buyUrl: 'https://www.amazon.com/Bounty-Paper-Towels-6-Pack/dp/000005005'
+      buyUrl: 'https://www.amazon.in/s?k=paper+towels+amazon&adgrpid=61911040791&ext_vrnc=hi&hvadid=380038914380&hvdev=c&hvlocphy=9301952&hvnetw=g&hvqmt=e&hvrand=17988894402774107279&hvtargid=kwd-308642290063&hydadcr=23624_1936792&mcid=cfc65d0bd84f313b9856955cc1636a63&tag=googinhydr1-21&ref=pd_sl_4hte3ti6v_e'
     },
     {
       id: 'sku000006',
-      name: 'Reusable Coffee Cup (16 oz)',
-      imageUrl: 'https://source.unsplash.com/400x400/?reusable-coffee-cup',
+      name: 'Reusable Coffee Cup',
+      imageUrl: 'https://images.unsplash.com/photo-1713623069195-a99aa37fe609?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       carbonFootprint: 0.9,
       recyclability: 95,
       sourcing: 'Made in Germany',
@@ -342,14 +342,14 @@
       category: 'Beverages',
       description: 'Travel mug for hot and cold drinks.',
       impactMeter: 'green',
-      store: 'Target',
-      brand: 'KeepCup',
-      buyUrl: 'https://www.target.com/p/keepcup-reusable-coffee-cup-16oz/-/A-000006006'
+      store: 'Flipkart',
+      brand: 'WK Life',
+      buyUrl: 'https://www.flipkart.com/wk-life-reusable-coffee-cup-travel-mug-leak-proof-500-ml-sipper/p/itm933d53b46f04c'
     },
     {
       id: 'sku000007',
       name: 'Vegan Protein Powder (2 lbs)',
-      imageUrl: 'https://source.unsplash.com/400x400/?vegan-protein',
+      imageUrl: 'https://m.media-amazon.com/images/I/71MbWb325KL._SL1500_.jpg',
       carbonFootprint: 1.0,
       recyclability: 70,
       sourcing: 'Made in USA',
@@ -358,13 +358,13 @@
       description: 'Plant-based protein for fitness and wellness.',
       impactMeter: 'green',
       store: 'Amazon',
-      brand: 'Orgain',
-      buyUrl: 'https://www.amazon.com/Orgain-Organic-Protein-Plant-Based/dp/000007007'
+      brand: 'Nutrabay',
+      buyUrl: 'https://www.amazon.in/Nutrabay-Wellness-Protein-Powder-Superfoods/dp/B097T2RNPD/ref=asc_df_B097T2RNPD?mcid=5fc0078100cc318c816f169bfbb9bf7d&tag=googleshopdes-21&linkCode=df0&hvadid=709855985436&hvpos=&hvnetw=g&hvrand=16086156642636155159&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9301952&hvtargid=pla-1394086650895&gad_source=1&th=1'
     },
     {
       id: 'sku000008',
       name: 'Organic Baby Wipes (100 count)',
-      imageUrl: 'https://source.unsplash.com/400x400/?baby-wipes',
+      imageUrl: 'https://m.media-amazon.com/images/I/71uB1uYW4XL._SL1500_.jpg',
       carbonFootprint: 0.6,
       recyclability: 80,
       sourcing: 'Made in USA',
@@ -372,14 +372,14 @@
       category: 'Personal Care',
       description: 'Gentle baby wipes made from organic materials.',
       impactMeter: 'green',
-      store: 'Walmart',
-      brand: 'WaterWipes',
-      buyUrl: 'https://www.walmart.com/ip/WaterWipes-Organic-Baby-Wipes/000008008'
+      store: 'Amazon',
+      brand: 'Mamaearth',
+      buyUrl: 'https://www.amazon.in/Mamaearth-Indias-First-Organic-Bamboo/dp/B076PFCNBX?th=1'
     },
     {
       id: 'sku000009',
       name: 'Recycled Printer Paper (500 sheets)',
-      imageUrl: 'https://source.unsplash.com/400x400/?recycled-paper',
+      imageUrl: 'https://www.rescript.in/assets/uploads/inventory/pro_63d8bf19c2f85735.jpg',
       carbonFootprint: 0.5,
       recyclability: 100,
       sourcing: 'Made in USA',
@@ -387,9 +387,9 @@
       category: 'Stationery',
       description: 'Multipurpose paper made from post-consumer waste.',
       impactMeter: 'green',
-      store: 'Amazon',
-      brand: 'Hammermill',
-      buyUrl: 'https://www.amazon.com/Hammermill-Recycled-Printer-Paper/dp/000009009'
+      store: 'Rescript',
+      brand: 'Rescript',
+      buyUrl: 'https://www.rescript.in/Shop/paper?srsltid=AfmBOor7yyj2ART92lRh1Q1w-WISy1BGCpssNmv8ixPrKtRT7lpLB218'
     }
 
   ];
